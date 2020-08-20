@@ -1,0 +1,3 @@
+/home/okuboali/qtproject/qt_pointcloud/build/CMakeFiles/rebuild_cache.dir
+/home/okuboali/qtproject/qt_pointcloud/build/CMakeFiles/qt_pointcloud.dir
+/home/okuboali/qtproject/qt_pointcloud/build/CMakeFiles/edit_cache.dir
